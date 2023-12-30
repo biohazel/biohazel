@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h3 align="center">An aspiring Jr. developer and Bitcoin technologist</h3>
+<h3 align="center">A Bitcoin technologist and aspiring Jr. developer.</h3>
 
 <br>  
 
